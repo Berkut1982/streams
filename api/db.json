@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great Stream",
+      "id": 1
+    },
+    {
+      "title": "Sta ima",
+      "description": "Eve...",
+      "userId": "102620308890966353763",
+      "id": 2
+    },
+    {
+      "title": "sdfsdf",
+      "description": "sdfsdf",
+      "userId": "102620308890966353763",
+      "id": 3
+    },
+    {
+      "title": "gdfgfdggd",
+      "description": "22222",
+      "userId": "102620308890966353763",
+      "id": 4
+    }
+  ]
+}
